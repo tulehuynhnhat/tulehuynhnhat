@@ -1,6 +1,6 @@
 <h4 align="left">Hello there👋</h4>
 
-<p align="left">I'm a developer with a primary focus on ReactJS and NextJS with a love for exploration and building application products, passionate about learning and growing along my journey</p>
+<p align="left">I'm a developer with a primary focus on ReactJS and NextJS</p>
 
 ###
 
