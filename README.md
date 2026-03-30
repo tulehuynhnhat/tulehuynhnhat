@@ -1,6 +1,6 @@
 <h4 align="left">Hello there👋</h4>
 
-<p align="left">ReactJS / NextJS Developer</p>
+<p align="left">React / Next.js Developer</p>
 
 ###
 
