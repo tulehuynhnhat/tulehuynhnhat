@@ -1,6 +1,4 @@
-<h4 align="left">Hello there👋</h4>
-
-<p align="left">React / Next.js Developer</p>
+<h2 align="left">React / Next.js Developer</h2>
 
 ###
 
